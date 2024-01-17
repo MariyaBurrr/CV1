@@ -1,1 +1,1 @@
-https://MariyaBurrr.github.io/CV1
+https://mariyaburrr.github.io/CV1/
