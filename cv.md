@@ -1,5 +1,5 @@
-## CV
 ## Maria Burnina
+
 ## Contact
 **Phone number:** +7 (707) 479-48-06  
 **Email:** izoprenmari@gmail.com  
