@@ -11,7 +11,7 @@ Some text about myself.
 
 ## Skills
 * HTML
-* CCS
+* CSS
 * JavaScript
 * MySQL
 * Git/GitHub
